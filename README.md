@@ -62,11 +62,7 @@ Raspberry Pi 5
 
 개발 과정과 트러블슈팅 내용은 `docs/` 디렉터리에 정리할 예정입니다.
 
-- Pixhawk와 Raspberry Pi UART 연결
-- MAVLink 통신 테스트
-- uXRCE-DDS 설정
-- ROS 2와 px4_msgs 설정
-- PX4 토픽 수신 확인
+- [Pixhawk 5X와 Raspberry Pi 5 ROS 2 연결](docs/01_px4_rpi_ros2_setup.md)
 
 ## Goal
 
