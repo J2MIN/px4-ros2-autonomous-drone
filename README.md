@@ -60,7 +60,7 @@ Raspberry Pi 5
 
 ## Development Log
 
-개발 과정과 트러블슈팅 내용은 `docs/` 디렉터리에 정리할 예정입니다.
+개발 과정과 트러블슈팅 내용은 docs/ 디렉터리에 정리하고 있습니다.
 
 - [Pixhawk 5X와 Raspberry Pi 5 ROS 2 연결](docs/01_px4_rpi_ros2_setup.md)
 
